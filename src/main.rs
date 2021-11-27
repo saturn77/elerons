@@ -53,10 +53,10 @@ const  SEARCHES : i64 = 10;
 //===============================================
 // Provide your own API Key here for Octopart
 //===============================================
-const API_KEY  : &str = "a9fe1e2b-e940-42f8-bcef-704a0f3d667a"; 
+const API_KEY  : &str = "a9fe1e2b-e940-42f4-beef-704a0f3d667a";  // this is an example
+
 const API_URL  : &str = "https://octopart.com/api/v4/endpoint?token=";
 const ENDPOINT : &str =  concatcp!(API_URL, API_KEY);
-
 
 //======================================================
 // Main Entrypoint, CLAP argument called automatically
