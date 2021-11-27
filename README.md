@@ -18,6 +18,8 @@ While on Windows
 elerons.exe "100pF 0402 10V" 
 ```
 
+One must simply provide their Octopart API key in the code. 
+
 Electronic component searches are often involved and tedious. The real objective of the hardware engineer is to find a suitable part, and Elerons has filters built in such as "high reliability" and "nominal" and "low cost". (These filters are works in progress.) Elerons will not only does the search, but will apply filters that are based on engineering know how. The usage from the command line allows for individual searches which is often quite useful when developing hardware, but can easily be extended to search an entire BOM for parts. 
 
 ## Using 
