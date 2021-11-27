@@ -1,0 +1,22 @@
+query CapQuery($cap_string : String!, $total :Int!) {
+    search(q : $cap_string, limit: $total) {
+      results {
+        part {
+        median_price_1000 {
+         price
+        }
+        manufacturer {
+          name
+        }
+        mpn
+        short_description
+        octopart_url
+
+        descriptions {
+          text
+        }
+        avg_avail
+        }
+      }
+    }
+  }
