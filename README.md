@@ -1,5 +1,5 @@
 # Elerons - ELectRONics Search with Rust 
-Elerons is a command line tool for electronic component selection.  
+Elerons is a command line tool for electronic component selection and design optimization facilitated by engineering know-how infused into the software itself.  
 
 ## Background
 
