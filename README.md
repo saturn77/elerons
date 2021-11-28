@@ -25,7 +25,7 @@ One must simply provide their **Octopart API** key in the code.
 
 ## Using 
 
-An example of running a search from the command line is shown below, showing the immediate response of the part request query. 
+An example of running several searches from the command line is shown below. The responses to the querys are immediate.  
 
 <img src="media/Elerons.gif">
 
